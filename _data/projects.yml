@@ -1,0 +1,4 @@
+- name: OpenDroneDiary
+  image: https://placehold.jp/75px/000000/aaaaaa/640x480.png?text=OpenDroneDiary
+  link: https://github.com/cyrus07424/openDroneDiary
+  description: オープンソースドローン飛行日誌管理ツール

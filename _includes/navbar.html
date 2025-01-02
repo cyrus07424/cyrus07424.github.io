@@ -4,8 +4,8 @@
         <!-- logo or branding image on left side -->
         <div class="navbar-brand">
             <a class="navbar-item"
-               href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
-                <strong>{{site.title}}</strong>
+               href="{% if page.layout == 'default' %}{{ site.url }}{{ site.baseurl }}/#{% else %}{{ site.url }}{{ site.baseurl }}/{% endif %}">
+                <strong>{{ site.title }}</strong>
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
                 <span></span>
@@ -22,11 +22,11 @@
             <!-- navbar items | right side -->
             <div class="navbar-end">
                 <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
-                   href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">ABOUT</a>
-                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#contact">CONTACT</a>
+                   href="{% if page.layout == 'default' %}{{ site.url }}{{ site.baseurl }}/#{% else %}{{ site.url }}{{ site.baseurl }}/{% endif %}">HOME</a>
+                <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/#about">ABOUT</a>
+                <a class="navbar-item" href="{{ site.url }}{{ site.baseurl }}/#contact">CONTACT</a>
                 <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
-                   href="{{site.url}}{{site.baseurl}}/blog">BLOG</a>
+                   href="{{ site.url }}{{ site.baseurl }}/blog">BLOG</a>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link">
                         GAME
@@ -37,9 +37,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'game' and sitepage.subcategory == 'panel' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -49,9 +49,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'game' and sitepage.subcategory == 'sonic2' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -61,9 +61,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'game' and sitepage.subcategory == 'sonichr' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -73,9 +73,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'game' and sitepage.subcategory == 'fzero' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -85,9 +85,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'game' and sitepage.subcategory == 'nfsug2' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -103,9 +103,9 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'hobby' and sitepage.subcategory == 'gallery' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
@@ -115,14 +115,15 @@
                         </div>
                         {% for sitepage in site.html_pages %}
                         {% if sitepage.category == 'hobby' and sitepage.subcategory == 'diary' %}
-                        <a href="{{sitepage.url | absolute_url}}"
+                        <a href="{{ sitepage.url | absolute_url }}"
                            class="navbar-item has-text-grey-light {% if page.url == sitepage.url | absolute_url %}is-active{% endif %}">
-                            {{sitepage.title}}
+                            {{ sitepage.title }}
                         </a>
                         {% endif %}
                         {% endfor %}
                     </div>
                 </div>
+                {% include dropdown.html %}
             </div>
         </div>
     </div>

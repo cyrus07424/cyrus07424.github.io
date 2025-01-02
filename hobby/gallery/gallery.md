@@ -49,6 +49,4 @@ subcategory: gallery
 # BOMEX RX-7
 スポコン仕様
 
-制作記は[こちら](/hobby/diary/02)。
-
 ![BOMEX RX-7](/assets/hobby/gallery/7.jpg)
