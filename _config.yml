@@ -1,2 +1,94 @@
-theme: jekyll-theme-hacker
-title: cyrus07424
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Title of the Site
+title: "- cyber_space -"
+# Description of the Site
+description: "cyber space"
+# URL of Image of the Site
+site-image: "https://placehold.jp/75px/000000/aaaaaa/640x480.png?text=-%20cyber_space%20-"
+# Keywords of the Site
+site-keywords: "photo,scenery"
+# URL for the Image of custom Favicon
+favicon-url:
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: "https://picsum.photos/id/893/4342/2895?grayscale"
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: cyrus07424@proton.me
+github_username: cyrus07424
+twitter_username: cyrus07424
+instagram_username: cyrus07424
+youtube_channel_id: UCew_LigJb-3euOM-aH7wtuQ
+
+# Google Analytics
+google-analytics: "G-100QHZ69Q5"
+
+# Name of the Author
+author-name: cyrus07424
+# URL for the Image of the Author
+author-image: https://github.com/cyrus07424.png
+# 60 Words About the Author
+author-about: If you’ve got a problem with the world, change yourself.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://cyrus07424.github.io/
+
+# Build settings
+markdown: kramdown
+remote_theme: thedevslot/WhatATheme
+plugins:
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
