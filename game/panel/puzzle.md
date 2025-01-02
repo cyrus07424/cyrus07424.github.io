@@ -8,7 +8,7 @@ subcategory: panel
 
 # No.1
 
-![No.1](/assets/game/panel/puzzle/1.jpg)
+![No.1](/assets/game/panel/puzzle/01.jpg)
 
 そんなに難しくありません。
 
@@ -16,7 +16,7 @@ subcategory: panel
 
 # No.2
 
-![No.2](/assets/game/panel/puzzle/2.jpg)
+![No.2](/assets/game/panel/puzzle/02.jpg)
 
 かなりのスピードが必要です。
 
@@ -24,7 +24,7 @@ subcategory: panel
 
 # No.3
 
-![No.3](/assets/game/panel/puzzle/3.jpg)
+![No.3](/assets/game/panel/puzzle/03.jpg)
 
 僕の最高傑作です。  
 クリアしたときの達成感があります。
@@ -33,7 +33,7 @@ subcategory: panel
 
 # No.4
 
-![No.4](/assets/game/panel/puzzle/4.jpg)
+![No.4](/assets/game/panel/puzzle/04.jpg)
 
 焦らずにやると簡単です。
 
@@ -41,7 +41,7 @@ subcategory: panel
 
 # No.5
 
-![No.5](/assets/game/panel/puzzle/5.jpg)
+![No.5](/assets/game/panel/puzzle/05.jpg)
 
 テクニックがあれば多分できます。
 
@@ -49,7 +49,7 @@ subcategory: panel
 
 # No.6
 
-![No.6](/assets/game/panel/puzzle/6.jpg)
+![No.6](/assets/game/panel/puzzle/06.jpg)
 
 水色をうまく消す事がコツです。
 

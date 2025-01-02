@@ -10,9 +10,9 @@ subcategory: sonic2
 
 まずはこちら。
 
-![シャッチャ1](/assets/game/sonic2/chao/1.jpg)
+![シャッチャ1](/assets/game/sonic2/chao/01.jpg)
 
-![シャッチャ2](/assets/game/sonic2/chao/2.jpg)
+![シャッチャ2](/assets/game/sonic2/chao/02.jpg)
 
 これが、僕がこのソフトを買ったときからずっと育てている、「シャッチャ」です。  
 転生するごとに名前を少しずつ変えたりしています。  
@@ -21,9 +21,9 @@ subcategory: sonic2
 
 次のチャオは、こちら。
 
-![フライトX](/assets/game/sonic2/chao/3.jpg)
+![フライトX](/assets/game/sonic2/chao/03.jpg)
 
-![ギガチャオ](/assets/game/sonic2/chao/4.jpg)
+![ギガチャオ](/assets/game/sonic2/chao/04.jpg)
 
 このチャオ達は、色タマゴを買って育てました。
 

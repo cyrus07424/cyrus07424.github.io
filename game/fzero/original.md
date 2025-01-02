@@ -8,7 +8,7 @@ subcategory: fzero
 
 # ガーネット コンドル
 
-![ガーネット コンドル](/assets/game/fzero/original/1.jpg)
+![ガーネット コンドル](/assets/game/fzero/original/01.jpg)
 
 このマシンは、主に[トビトビ](/game/fzero/tech#トビトビ)に使用します。  
 ペーパークラフト等よりも格好が良く、上昇速度も速いので、おすすめです。
@@ -17,7 +17,7 @@ subcategory: fzero
 
 # トルネード グライダー V2
 
-![トルネード グライダー V2](/assets/game/fzero/original/2.jpg)
+![トルネード グライダー V2](/assets/game/fzero/original/02.jpg)
 
 このマシンは、主に[ドリドリ](/game/fzero/tech#ドリドリ)で使用します。  
 コクピットは、マキシマムスターが一番早いのですが、僕は、そのパーツを持っていないので、これを使用しています。  
@@ -27,7 +27,7 @@ subcategory: fzero
 
 # ウルトラ ジャべリン V2
 
-![ウルトラ ジャべリン V2](/assets/game/fzero/original/3.jpg)
+![ウルトラ ジャべリン V2](/assets/game/fzero/original/03.jpg)
 
 このマシンは、僕が格好だけを考えて作成したマシンです。  
 ダブルブランチで使用すると早いですが、僕はそのコースが苦手なので、うまく使いこなす事ができません。  

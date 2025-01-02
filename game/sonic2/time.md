@@ -12,7 +12,7 @@ subcategory: sonic2
 今回は、シティエスケープの最短タイムの出し方を紹介します。  
 まず、こちらを見てください。
 
-![記録](/assets/game/sonic2/time/1.jpg)
+![記録](/assets/game/sonic2/time/01.jpg)
 
 ベストタイムは、**02:13:22**です。  
 このタイムの出し方を紹介していきましょう。

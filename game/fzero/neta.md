@@ -26,6 +26,6 @@ subcategory: fzero
 プレイをやめれば、他のモードには影響しないので、安全です。
 
 ---
-![スクリーンショット](/assets/game/fzero/neta/1.jpg)
+![スクリーンショット](/assets/game/fzero/neta/01.jpg)
 
 ちなみに、**2147483648km/h**出ます。

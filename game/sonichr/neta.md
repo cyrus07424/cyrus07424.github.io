@@ -15,9 +15,9 @@ subcategory: sonichr
 
 キャラクターは、チームダーク、スイッチ式のポールがあるステージを選びます。
 
-![ネタ1](/assets/game/sonichr/neta/1.jpg)
+![ネタ1](/assets/game/sonichr/neta/01.jpg)
 
-![ネタ2](/assets/game/sonichr/neta/2.jpg)
+![ネタ2](/assets/game/sonichr/neta/02.jpg)
 
 スイッチ式のポールを起動させる前に、カオスインフェルノを使い、時間を止めます。  
 そのままポールのスイッチを入れると、ポールは伸びていないのに、トルネードで登っていくことが可能になります。

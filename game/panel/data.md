@@ -6,7 +6,7 @@ category: game
 subcategory: panel
 ---
 
-![記録](/assets/game/panel/data/1.jpg)
+![記録](/assets/game/panel/data/01.jpg)
 
 NINTENDO パズルコレクション内のパネルでポンの記録です。
 
