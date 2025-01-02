@@ -172,5 +172,3 @@ tags:
 # 2008年04月
 
 ![2008年04月](/assets/posts/top-image-history/0804.jpg)
-
----
