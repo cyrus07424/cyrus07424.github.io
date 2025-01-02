@@ -1,7 +1,7 @@
 ---
 title: 春の風景'05
 layout: post
-post-image: /assets/posts/scenery/2005/spring/01.jpg
+post-image: /assets/posts/scenery/2005/spring/10.jpg
 tags:
   - scenery
 ---

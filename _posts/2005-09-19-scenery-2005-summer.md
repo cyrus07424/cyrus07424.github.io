@@ -1,7 +1,7 @@
 ---
 title: 夏の風景'05
 layout: post
-post-image: /assets/posts/scenery/2005/summer/01.jpg
+post-image: /assets/posts/scenery/2005/summer/09.jpg
 tags:
   - scenery
 ---

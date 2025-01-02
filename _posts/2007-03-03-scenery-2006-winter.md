@@ -1,7 +1,7 @@
 ---
 title: 冬の風景'06
 layout: post
-post-image: /assets/posts/scenery/2006/winter/01.jpg
+post-image: /assets/posts/scenery/2006/winter/05.jpg
 tags:
   - scenery
 ---

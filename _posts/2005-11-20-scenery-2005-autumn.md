@@ -1,7 +1,7 @@
 ---
 title: 秋の風景'05
 layout: post
-post-image: /assets/posts/scenery/2005/autumn/01.jpg
+post-image: /assets/posts/scenery/2005/autumn/12.jpg
 tags:
   - scenery
 ---

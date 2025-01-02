@@ -1,10 +1,9 @@
 ---
 title: 過去のトップ画像
 layout: post
-post-image: /assets/posts/scenery/2007/summer/01.jpg
+post-image: /assets/posts/top-image-history/0804.jpg
 tags:
-  - top
-  - history
+  - photo
 ---
 
 # 2005年12月
