@@ -51,3 +51,11 @@ subcategory: panel
 ![No.6](/assets/game/panel/puzzle/6.jpg)
 
 水色をうまく消す事がコツです。
+
+---
+
+# 解き方
+
+パズルの解き方は以下の動画から確認することができます。
+
+<iframe width="312" height="176" src="https://www.nicovideo.jp/thumb/sm10573445" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"><a href="https://www.nicovideo.jp/watch/sm10573445">パネルでポン / 自作パズル</a></iframe>
