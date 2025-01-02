@@ -8,7 +8,7 @@ subcategory: nfsug2
 
 ![スープラ1](/assets/game/nfsug2/car/1.jpg)
 
-スープラです。
+スープラです。  
 アーケード等で使用しています。
 
 ---

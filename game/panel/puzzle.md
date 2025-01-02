@@ -26,7 +26,8 @@ subcategory: panel
 
 ![No.3](/assets/game/panel/puzzle/3.jpg)
 
-僕の最高傑作です。クリアしたときの達成感があります。
+僕の最高傑作です。  
+クリアしたときの達成感があります。
 
 ---
 
