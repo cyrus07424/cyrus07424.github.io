@@ -50,7 +50,7 @@ subcategory: sonic2
 
 ![ネタ6](/assets/game/sonic2/neta/06.jpg)
 
-そのまま１Pプレイ時のように下っていくと・・・
+そのまま1Pプレイ時のように下っていくと・・・
 
 ![ネタ7](/assets/game/sonic2/neta/07.jpg)
 

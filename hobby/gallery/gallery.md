@@ -7,6 +7,8 @@ subcategory: gallery
 
 # VeilSide Combat I スープラ
 
+制作記は[こちら](/hobby/diary/03)。
+
 ![VeilSide Combat I スープラ](/assets/hobby/gallery/1.jpg)
 
 ---
@@ -32,6 +34,8 @@ subcategory: gallery
 # トップシークレット R34 GT-R
 スポコン仕様
 
+制作記は[こちら](/hobby/diary/05)。
+
 ![トップシークレット R34 GT-R](/assets/hobby/gallery/5.jpg)
 
 ---
@@ -44,5 +48,7 @@ subcategory: gallery
 
 # BOMEX RX-7
 スポコン仕様
+
+制作記は[こちら](/hobby/diary/02)。
 
 ![BOMEX RX-7](/assets/hobby/gallery/7.jpg)
