@@ -1,6 +1,6 @@
 ﻿---
 layout: game
-title: "小ネタ等"
+title: "小ネタ"
 subtitle: "ソニックヒーローズ"
 category: game
 subcategory: sonichr
