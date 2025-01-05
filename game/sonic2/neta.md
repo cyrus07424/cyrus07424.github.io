@@ -12,6 +12,10 @@ subcategory: sonic2
 # まとめ動画
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/st8FgIByamQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/x1Mj6pug8_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/LoPYTBizMMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
