@@ -23,9 +23,9 @@ description: "Unleash the Quantum Shadow, where darkness meets the digital dawn.
 # URL of Image of the Site
 site-image: "https://placehold.jp/75px/000000/aaaaaa/640x480.png?text=-%20cyber_space%20-"
 # Keywords of the Site
-site-keywords: "photo,scenery,game,パネルでポン,ソニックアドベンチャー2バトル,ソニックヒーローズ,F-ZERO GX,Need for Speed :Underground2"
+site-keywords: "photo,scenery,game,パネルでポン,ソニックアドベンチャー2バトル,ソニックヒーローズ,F-ZERO GX,Need for Speed: Underground 2"
 # URL for the Image of custom Favicon
-favicon-url:
+favicon-url: "https://placehold.jp/15/000000/aaaaaa/114x114.png?text=-%20cyber_space%20-"
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: "https://picsum.photos/id/893/4342/2895?grayscale"

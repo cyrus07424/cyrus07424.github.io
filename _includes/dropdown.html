@@ -3,6 +3,9 @@
         MORE
     </a>
     <div class="navbar-dropdown has-background-black is-left">
+        <div class="navbar-item has-text-grey-lighter">
+            プロジェクト
+        </div>
         {% for sitepage in site.html_pages %}
         {% unless sitepage.url == '/' or sitepage.url == '/404' or sitepage.url == '/blog' %}
         {% unless sitepage.category %}
@@ -12,6 +15,15 @@
         </a>
         {% endunless %}
         {% endunless %}
+        {% endfor %}
+        <hr class="navbar-divider">
+        <div class="navbar-item has-text-grey-lighter">
+            ツール
+        </div>
+        {% for tool in site.data.tools %}
+        <a href="{{ tool.link }}" class="navbar-item has-text-grey-light" target="_blank">
+            {{ tool.name }}
+        </a>
         {% endfor %}
     </div>
 </div>
