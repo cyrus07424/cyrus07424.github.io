@@ -1,5 +1,8 @@
 <head>
     {% include meta.html %}
+    {% if site.google-adsense %}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.google-adsense }}" crossorigin="anonymous"></script>
+    {% endif %}
     <link rel="stylesheet" href="{% if site.baseurl %}{{ site.baseurl }}{% else %}{% endif %}/assets/css/style.css">
     <link rel="shortcut icon" href="{% if site.favicon-url %}{{ site.favicon-url }}{% else %}{{ 'assets/images/logo.png' | absolute_url }}{% endif %}" type="image/x-icon">
     <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
